@@ -1,3 +1,5 @@
 # Ignore env and .vs
 env
 .vs
+Out.txt
+output.txt
