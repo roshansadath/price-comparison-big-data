@@ -1,0 +1,74 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:root:Competitor scraper completed successfully.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:root:Competitor scraper completed successfully.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:root:Competitor scraper completed successfully.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+ERROR:root:Unknown error occurred: name 'os' is not defined
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49]
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49]
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Unknown error occurred: 'NoneType' object has no attribute 'find_all'
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Could not find category list in HTML.
+INFO:root:Competitor scraper completed successfully.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Could not find category list in HTML.
+INFO:root:Competitor scraper completed successfully.
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Driver [C:\Users\script\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+ERROR:root:Could not find category list in HTML.
+INFO:root:Competitor scraper completed successfully.

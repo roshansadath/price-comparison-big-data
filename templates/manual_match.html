@@ -1,0 +1,15 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+    <title>Manual Match</title>  
+</head>  
+<body>  
+    <h1>Manual Match</h1>  
+    <p>Please enter a competitor SKU for {{ mecp_sku }}:</p>  
+    <form method="POST">  
+        <input type="text" name="competitor_sku">  
+        <input type="hidden" name="mecp_sku" value="{{ mecp_sku }}">  
+        <input type="submit" value="Submit">  
+    </form>  
+</body>  
+</html>  
